@@ -43,7 +43,7 @@
     "@storybook/builder-vite": "^8.2.7",
     "@storybook/html": "^8.2.7",
     "@storybook/html-vite": "^8.2.7",
-    "@types/node": "^22.0.2",
+    "@types/node": "^22.0.3",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
     "@vitest/ui": "^2.0.5",
