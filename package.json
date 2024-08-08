@@ -55,7 +55,7 @@
     "typescript": "^5.5.4",
     "undici": "^6.19.5",
     "vite": "^5.4.0",
-    "vite-tsconfig-paths": "^4.3.2",
+    "vite-tsconfig-paths": "^5.0.0",
     "vitest": "^2.0.5"
   },
   "packageManager": "pnpm@9.0.6+sha512.f6d863130973207cb7a336d6b439a242a26ac8068077df530d6a86069419853dc1ffe64029ec594a9c505a3a410d19643c870aba6776330f5cfddcf10a9c1617"
