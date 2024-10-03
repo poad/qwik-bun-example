@@ -47,7 +47,7 @@
     "@types/node": "^22.7.4",
     "@typescript-eslint/eslint-plugin": "^8.8.0",
     "@typescript-eslint/parser": "^8.8.0",
-    "@vitest/ui": "^2.1.1",
+    "@vitest/ui": "^2.1.2",
     "eslint": "^9.11.1",
     "eslint-plugin-qwik": "^1.9.0",
     "prettier": "^3.3.3",
@@ -57,7 +57,7 @@
     "undici": "^6.19.8",
     "vite": "^5.4.8",
     "vite-tsconfig-paths": "^5.0.1",
-    "vitest": "^2.1.1"
+    "vitest": "^2.1.2"
   },
   "packageManager": "pnpm@9.0.6+sha512.f6d863130973207cb7a336d6b439a242a26ac8068077df530d6a86069419853dc1ffe64029ec594a9c505a3a410d19643c870aba6776330f5cfddcf10a9c1617"
 }
